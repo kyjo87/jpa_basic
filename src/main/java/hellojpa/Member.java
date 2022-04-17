@@ -2,7 +2,7 @@ package hellojpa;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-/*asdfasdfasdf*/
+/*asdfsdafasdfasdfasd*/
 @Entity
 public class Member {
 
