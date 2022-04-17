@@ -27,7 +27,7 @@ public class jpaMain {
 
         tx.commit();
         em.close();
-        /*종료*/
+        /*종료111111*/
         emf.close();
     }
 }
