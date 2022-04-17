@@ -27,7 +27,7 @@ public class jpaMain {
 
         tx.commit();
         em.close();
-        /*종료 15:00*/
+        /*종료 15:01111*/
         emf.close();
     }
 }
