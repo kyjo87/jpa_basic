@@ -2,7 +2,7 @@ package hellojpa;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-/*DEV commit.push*/
+/*DEV commit.pushffffff*/
 @Entity
 public class Member {
 
