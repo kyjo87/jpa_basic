@@ -2,7 +2,7 @@ package hellojpa;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+/*테스트테스트테스트트틑트트틑트트틑트트트*/
 @Entity
 public class Member {
 
